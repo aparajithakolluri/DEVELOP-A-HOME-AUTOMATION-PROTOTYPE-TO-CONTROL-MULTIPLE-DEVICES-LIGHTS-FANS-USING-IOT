@@ -34,3 +34,4 @@ Microcontroller Code: Write the code for the microcontroller, incorporating the 
 Smartphone/Web Application: Create the user interface for controlling the devices.
 IoT Platform Configuration: Configure the IoT platform (Blynk or MQTT broker) and establish communication between the microcontroller and the platform.
 Testing and Refinement: Thoroughly test the system, ensuring that all devices can be controlled remotely and that all functionalities work as expected. Refine the system based on testing results.
+# output : https://github.com/aparajithakolluri/DEVELOP-A-HOME-AUTOMATION-PROTOTYPE-TO-CONTROL-MULTIPLE-DEVICES-LIGHTS-FANS-USING-IOT/issues/1#issue-2796773490
